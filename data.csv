@@ -1,0 +1,39 @@
+Gender,Year of Study,Monthly Expense,Living District,Transportation,Num_transfer,Time,Comfortability,Price,Walking Distance,Acceptable price,MTR,Bus,Shuttle Bus,Taxi,Tram
+Male,Year 4,$3000 - $5999,Hong Kong Island (HK Island),MTR,1,1,2,3,4,10,1,3,2,4,5
+Female,Year 4,$3000 - $5999,Kowloon (KL),MTR,2,1,3,4,2,20,2,1,3,4,5
+Male,Year 5 or above,$0 - $2999,Hong Kong Island (HK Island),walk,1,1,3,4,2,3,1,3,4,5,2
+Female,Year 4,$3000 - $5999,West New Territories (NT-W),MTR,2,1,4,2,3,10,1,2,3,4,5
+Female,Year 5 or above,$3000 - $5999,East New Territories (NT-E),MTR,2,1,3,2,4,7,1,2,3,4,5
+Male,Year 4,$3000 - $5999,East New Territories (NT-E),MTR,3,1,2,3,4,25,1,3,2,4,5
+Female,Year 4,$3000 - $5999,East New Territories (NT-E),MTR,1,1,4,2,3,4.5,1,2,3,5,4
+Male,Year 4,$3000 - $5999,West New Territories (NT-W),Bus,1,1,2,3,4,20,3,2,1,4,5
+Male,Year 4,$3000 - $5999,Kowloon (KL),MTR,2,1,3,2,4,20,1,2,3,4,5
+Male,Year 4,$3000 - $5999,East New Territories (NT-E),MTR,2,1,2,3,4,15,1,2,3,4,5
+Male,Year 4,$9000 - $11999,Kowloon (KL),Private Car,1,1,2,3,4,15,4,3,2,1,5
+Female,Year 4,$0 - $2999,Kowloon (KL),MTR,3,1,4,3,2,10,1,3,2,5,4
+Female,Year 4,$0 - $2999,West New Territories (NT-W),MTR,3,1,2,3,4,20,1,3,2,4,5
+Male,Year 4,$0 - $2999,Hong Kong Island (HK Island),MTR,1,1,4,3,2,10,1,2,3,4,5
+Male,Year 4,$3000 - $5999,West New Territories (NT-W),MTR,3,1,3,2,4,20,1,3,2,5,4
+Male,Year 4,$15000 or above,Kowloon (KL),MTR,2,1,5,2,4,7,1,3,2,5,4
+Female,Year 5 or above,$3000 - $5999,West New Territories (NT-W),MTR,2,1,3,2,4,15,1,3,2,4,5
+Male,Year 4,$0 - $2999,West New Territories (NT-W),MTR,4,1,2,4,3,35,2,3,1,4,5
+Male,Year 4,$0 - $2999,Hong Kong Island (HK Island),MTR,1,2,3,1,4,10,2,3,1,4,5
+Male,Year 4,$3000 - $5999,Hong Kong Island (HK Island),Bus,1,1,2,5,3,10,1,2,5,4,3
+Male,Year 3,$3000 - $5999,Hong Kong Island (HK Island),MTR,1,1,2,3,4,2,1,3,2,4,5
+Female,Year 3,$3000 - $5999,West New Territories (NT-W),MTR,2,1,2,4,3,12,3,2,1,5,4
+Female,Year 2,$0 - $2999,Kowloon (KL),MTR,1,1,4,2,3,5,1,2,3,5,4
+Male,Year 5 or above,$0 - $2999,Kowloon (KL),MTR,1,1,3,2,4,15,1,3,4,2,5
+Female,Year 5 or above,$3000 - $5999,East New Territories (NT-E),MTR,2,1,2,3,4,10,2,3,1,4,5
+Non-binary / third gender,Year 3,$3000 - $5999,Hong Kong Island (HK Island),MTR,1,1,4,3,2,8,2,3,1,5,4
+Male,Year 3,$0 - $2999,East New Territories (NT-E),MTR,2,1,4,3,2,10,1,3,2,5,4
+Male,Year 3,$0 - $2999,West New Territories (NT-W),Bus,2,2,1,4,3,10,3,1,2,5,4
+Female,Year 4,$0 - $2999,Kowloon (KL),MTR,2,1,4,3,2,10,2,3,1,5,4
+Male,Year 5 or above,$6000 - $8999,Hong Kong Island (HK Island),MTR,1,2,4,1,3,10,1,4,3,2,5
+Prefer not to say,Year 1,$0 - $2999,Kowloon (KL),MTR,2,1,2,3,4,8,1,4,3,5,2
+Female,Year 3,$6000 - $8999,East New Territories (NT-E),MTR,3,1,2,4,3,20,2,3,1,4,5
+Male,Year 4,$3000 - $5999,Kowloon (KL),MTR,2,1,4,2,3,10,1,2,3,5,4
+Female,Year 4,$3000 - $5999,East New Territories (NT-E),MTR,1,1,2,4,3,8,2,3,1,4,5
+Female,Year 3,$0 - $2999,Kowloon (KL),MTR,3,1,3,4,2,10,1,2,3,5,4
+Female,Year 3,$0 - $2999,Kowloon (KL),MTR,3,4,2,3,1,12,3,2,1,4,5
+Male,Year 5 or above,$15000 or above,Hong Kong Island (HK Island),Private Car,1,1,2,3,4,1.9,2,3,4,1,5
+Female,Year 1,$3000 - $5999,East New Territories (NT-E),MTR,1,1,2,5,3,5,1,3,4,2,5
